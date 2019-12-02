@@ -52,3 +52,11 @@ numbers.pop_back();
 - **is_(anything)_until** (sorted, partitioned, heap): returns iterator till where it is that
 
 
+## Land of Queries
+
+- count
+- accumulate
+- partial_sum
+- inner_product
+- adjacent_difference
+- sample

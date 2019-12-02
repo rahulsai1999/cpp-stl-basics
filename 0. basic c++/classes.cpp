@@ -40,7 +40,7 @@ public:
     int area() { return w * h; }
 };
 
-//statis member is always constant for all objects
+//static member is always constant for all objects
 int Rectangle::n = 4;
 
 void Rectangle::set(int a, int b)
